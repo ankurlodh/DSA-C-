@@ -9,6 +9,7 @@ C++ solutions for DSA and competitive programming problems from LeetCode, GFG, a
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankurlodh/DSA-C-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankurlodh/DSA-C-/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ankurlodh/DSA-C-/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankurlodh/DSA-C-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ C++ solutions for DSA and competitive programming problems from LeetCode, GFG, a
 | [0035-search-insert-position](https://github.com/ankurlodh/DSA-C-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ankurlodh/DSA-C-/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/ankurlodh/DSA-C-/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankurlodh/DSA-C-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
