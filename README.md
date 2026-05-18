@@ -12,6 +12,7 @@ C++ solutions for DSA and competitive programming problems from LeetCode, GFG, a
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankurlodh/DSA-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/ankurlodh/DSA-C-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankurlodh/DSA-C-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/ankurlodh/DSA-C-/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ C++ solutions for DSA and competitive programming problems from LeetCode, GFG, a
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankurlodh/DSA-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/ankurlodh/DSA-C-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankurlodh/DSA-C-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/ankurlodh/DSA-C-/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |
