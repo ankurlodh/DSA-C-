@@ -28,4 +28,8 @@ C++ solutions for DSA and competitive programming problems from LeetCode, GFG, a
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankurlodh/DSA-C-/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ankurlodh/DSA-C-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
