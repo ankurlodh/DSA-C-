@@ -32,6 +32,7 @@ C++ solutions for DSA and competitive programming problems from LeetCode, GFG, a
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/ankurlodh/DSA-C-/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/ankurlodh/DSA-C-/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1148-article-views-i](https://github.com/ankurlodh/DSA-C-/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/ankurlodh/DSA-C-/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/ankurlodh/DSA-C-/tree/master/1683-invalid-tweets) |
